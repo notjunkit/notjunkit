@@ -1,6 +1,7 @@
 - 👋 Hey, I’m Melvin Tan.
 - 👀 I’m interested in scuba diving, tech, gaming, puzzles, finance and chess.
 - 📫 How to reach me: quackiechan@duck.com
+- :bookmark_tabs: Stash: Scrum, tech and random stuffs
 
 <!---
 notjunkit/notjunkit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
