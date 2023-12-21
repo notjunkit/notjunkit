@@ -1,6 +1,6 @@
 - 👋 Hey, I’m Melvin.
 - 👀 I’m interested in scuba diving, tech, gaming, puzzles, finance and chess.
-- 📫 How to reach me: quackiechan@duck.com.
+- 📫 How to reach me: TBC
 - :bookmark_tabs: Stash: Scrum, tech and random stuffs.
 
 <!---
